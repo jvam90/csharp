@@ -43,6 +43,9 @@
             Console.WriteLine("Double == double");
             Console.WriteLine(sb);
             Console.WriteLine(alsoSb);
+            Console.WriteLine("Double == double");
+            Console.WriteLine(d);
+            Console.WriteLine(alsoD);
             Console.WriteLine("Decimal == decimal");
             Console.WriteLine(dec);
             Console.WriteLine(alsoDec);
