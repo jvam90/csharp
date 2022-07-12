@@ -22,6 +22,9 @@
             double d = 3.14;
             Double alsoD = 3.14;
 
+            decimal dec = 4.5M;
+            Decimal alsoDec = 4.5M; 
+
             Console.WriteLine("Int32 == int");
             Console.WriteLine(age);
             Console.WriteLine(alsoAge);
@@ -40,6 +43,9 @@
             Console.WriteLine("Double == double");
             Console.WriteLine(sb);
             Console.WriteLine(alsoSb);
+            Console.WriteLine("Decimal == decimal");
+            Console.WriteLine(dec);
+            Console.WriteLine(alsoDec);
         }
     }
 }
